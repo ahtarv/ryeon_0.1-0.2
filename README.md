@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2026.xxxxx-b31b1b.svg)](https://arxiv.org)
+[![Figshare](https://img.shields.io/badge/Figshare-10.6084%2Fm9.figshare.32115253-blue.svg)](https://doi.org/10.6084/m9.figshare.32115253)
 
 Systematic evaluation of learnable electron-bias parameters applied to grammar tokens in MolGramTreeNet for molecular property prediction. This work demonstrates that property-aware feature modifications must be co-optimized with model architecture.
 
